@@ -1,10 +1,13 @@
 Final Thesis Project: Supercar Rental System
+
 🚀 Project Overview
+
 This repository contains the complete implementation of a modern, technology-driven supercar rental system. Developed as a Bachelor Diploma Thesis project, its primary goal is to streamline operational processes for high-value vehicle rentals, enhance security, and significantly improve customer satisfaction within the luxury and supercar sector.
 
 The system addresses the unique challenges of luxury car rentals, such as specialized maintenance, stringent security requirements, and high client expectations for exclusivity and personalized service. It replaces conventional, generic rental systems with a robust, digital solution designed for efficiency, transparency, and an unparalleled user experience.
 
 ✨ Key Features
+
 Centralized Management: A robust backend API and database for efficient storage and management of vehicle fleet information, registered users, and reservations.
 
 Intelligent Planning: Integration with external data sources (e.g., OpenStreetMap Nominatim API for reverse geocoding, potential weather data) to optimize rental planning and provide location-aware services.
@@ -16,9 +19,11 @@ Enhanced Security: Implemented security protocols to protect high-value assets a
 Process Automation: Automation of key rental processes to reduce operational costs and increase business transparency.
 
 🛠 Technologies Used
+
 This project leverages a modern tech stack to ensure high performance, scalability, and maintainability.
 
 Backend
+
 Runtime Environment: Bun
 
 Chosen for: Exceptional speed, all-in-one tooling (bundler, transpiler, package manager), native support for web standards, and Node.js API compatibility.
