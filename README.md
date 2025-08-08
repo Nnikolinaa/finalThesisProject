@@ -4,7 +4,7 @@ Final Thesis Project: Supercar Rental System
 
 This repository contains the complete implementation of a modern, technology-driven supercar rental system. Developed as a Bachelor Diploma Thesis project, its primary goal is to streamline operational processes for high-value vehicle rentals, enhance security, and significantly improve customer satisfaction within the luxury and supercar sector.
 
-The system addresses the unique challenges of luxury car rentals, such as specialized maintenance,  security requirements, and high client expectations for exclusivity and personalized service. It replaces conventional, generic rental systems with a robust, digital solution designed for efficiency, transparency, and an unparalleled user experience.
+The system addresses the unique challenges of luxury car rentals, such as specialized maintenance,  security requirements, and high client expectations for exclusivity and personalized service. It replaces conventional, generic rental systems with a robust, digital solution designed for efficiency, transparency, and a great user experience.
 
 ✨ Key Features
 
